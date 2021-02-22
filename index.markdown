@@ -3,15 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
+title: Homepage
+hidetitle: true
+alternative_title: "Welcome!"
 permalink: /
 order: 1
 ---
-
-
-# Hello!
- 
- I am Jonathan. Welcome to my personal webpage.
+  
+I am Jonathan. Welcome to my personal webpage.
 I am currently a postdoctoral researcher working in the [STACK](http://stack.inria.fr/) team
 on the [SeDuCe](https://seduce.fr/) testbed for the study of energetical aspects in datacenters.
 
