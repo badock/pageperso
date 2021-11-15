@@ -6,7 +6,7 @@
     {%- assign titles_size = site.pages | where_exp:"item", "item.title!=''" | map: 'title' | join: '' | size -%}
     {%- assign titles_order = site.pages | map: 'order' | join: ''  -%}
     {%- assign sorted_pages = site.pages | sort: 'order' -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
