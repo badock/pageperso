@@ -10,6 +10,14 @@ order: 6
 
 In this page you will find few projects I developed during my spare time.
 
+### Golisp
+
+![screenshots of golips](/assets/img/golisp.png)
+
+**Golisp** is a small LISP interpreter written in Go. The goal of this project was to learn more on LISP and Go.
+           
+[demo](http://golisp.jonathanpastor.fr)
+
 ### Wikipulse angular
 
 ![screenshots of wikipulse angular](/assets/img/wikipulse_angular.png)

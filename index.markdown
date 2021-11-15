@@ -10,11 +10,12 @@ permalink: /
 order: 1
 ---
   
-I am Jonathan. Welcome to my personal webpage.
-I am currently a postdoctoral researcher working in the [STACK](http://stack.inria.fr/) team
+Hello. My name is Jonathan Pastor.
+I am software engineer in [Easyvirt](https://www.easyvirt.com/) in [Nantes](https://en.wikipedia.org/wiki/Nantes), developing tools for VMware infrastructures.
+Previously I was a postdoctoral researcher working in the [STACK](http://stack.inria.fr/) team
 on the [SeDuCe](https://seduce.fr/) testbed for the study of energetical aspects in datacenters.
 
-I have received my PhD from [Ecole des Mines de Nantes](https://www.imt-atlantique.fr/fr) in October 2016, by defending
+I have received a computer science PhD from [Ecole des Mines de Nantes](https://www.imt-atlantique.fr/fr) in October 2016, by defending
 a thesis titled *Contributions to massively distributed Cloud Computing infrastructures*,
 under the supervision of  [Frederic Desprez](https://fdesprez.github.io/) and [Adrien Lèbre](https://web.imt-atlantique.fr/x-info/ascola/doku.php?id=internet:members:alebre08:overview).
 
@@ -23,8 +24,8 @@ research engineer during one year on the [Chameleon Cloud](https://www.chameleon
 
 ## Research interests
 
+- Cloud Computing and Fog/Edge Computing (OpenStack, VMware, Docker).
 - Energy-related aspects of datacenters (power consumption, thermal dissipation, use of renewable energies).
-- Cloud Computing and Fog/Edge Computing.
 - High availability and scalability of distributed Systems.
 
 ## Awards
